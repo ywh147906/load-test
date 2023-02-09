@@ -20,3 +20,7 @@
 - 5、启动 coin-server/load-test/main.go
 - 6、浏览器访问 http://127.0.0.1:8089/
 - 7、若要重来，则需要重走2-6步
+
+
+### 压测结果
+- ![image](https://github.com/ywh147906/load-test/blob/main/img/result.jpg)
